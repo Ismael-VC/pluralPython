@@ -1,0 +1,5 @@
+[sxz]$              $          es
+[ˆaeioudgkprt]h$    $          es
+[ˆaeiou]y$          y$         ies
+[m]an$              an$        en
+$                   $          s   
