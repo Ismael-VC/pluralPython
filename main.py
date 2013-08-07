@@ -18,7 +18,8 @@ if __name__ == '__main__':
     try:
         cmd = sys.argv[1]
         if cmd:
-            print((main(cmd)))
+            c = 'el plural de {0} es: '.format(cmd)
+            print(c, (main(cmd)))
         else:
             print('comando no valido')
             print('#ejemplo: python3 main.py frase_a_combertir')
